@@ -5,7 +5,6 @@ url: about
 ---
 {{< partial "marketing/elements/header.html" >}}
 {{< partial "marketing/custom/vision-message.html" >}}
-{{< partial "marketing/factory/text.html" >}}
-{{< partial "marketing/factory/testimonial.html" >}}
-{{< partial "marketing/factory/gallery.html" >}}
+{{< partial "marketing/sections/text.html" >}}
+{{< partial "marketing/sections/testimonial.html" >}}
 {{< partial "marketing/elements/footer.html" >}}

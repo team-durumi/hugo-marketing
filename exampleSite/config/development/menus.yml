@@ -3,9 +3,12 @@ main:
   - name: 홈
     url: /
     weight: -110
+  - name: 소개
+    url: about
+    weight: -100    
   - name: 레이아웃 목록
     url: library
-    weight: -100
+    weight: -90
 
 button:
   - name: about

@@ -7,15 +7,15 @@ url: library
 {{< partial "marketing/elements/header.html" >}}
 {{< partial "marketing/custom/vision-message.html" >}}
 {{< partial "marketing/sections/hero.html" >}}
-{{< partial "marketing/factory/testimonial.html" >}}
-{{< partial "marketing/factory/carousel.html" >}}
+{{< partial "marketing/sections/testimonial.html" >}}
+{{< partial "marketing/sections/carousel.html" >}}
 
-{{< partial "marketing/factory/feature.html" >}}
-{{< partial "marketing/factory/text.html" >}}
+{{< partial "marketing/sections/feature.html" >}}
+{{< partial "marketing/sections/text.html" >}}
 {{< partial "marketing/custom/feature-program.html" >}}
 {{< partial "marketing/custom/vision-message.html" >}}
-{{< partial "marketing/factory/testimonial.html" >}}
-{{< partial "marketing/factory/order-card.html" >}}
+{{< partial "marketing/sections/testimonial.html" >}}
+{{< partial "marketing/sections/order-card.html" >}}
 
 {{< partial "marketing/sections/faqs.html" >}}
 {{< partial "marketing/sections/card.html" >}}

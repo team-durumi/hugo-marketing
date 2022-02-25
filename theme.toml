@@ -4,7 +4,7 @@ licenselink = "https://github.com/team-durumi/hugo-marketing/blob/master/LICENSE
 description = "Marketing theme for hugo"
 tags = ["anualreport", "static"]
 features = ["awesome"]
-min_version = "0.52.0"
+min_version = "0.55.0"
 
 [author]
   name = "Team-Durumi"

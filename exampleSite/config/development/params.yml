@@ -1,0 +1,36 @@
+featuredImages:
+  - img/og-image.png
+
+googleFonts:
+  - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
+  - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
+
+assets:
+  tailwindcss: https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp
+  alpinejs:
+  - intersect: https://unpkg.com/@alpinejs/intersect@3.x.x/dist/cdn.min.js
+  - persist: https://unpkg.com/@alpinejs/persist@3.x.x/dist/cdn.min.js
+  - focus: https://unpkg.com/@alpinejs/focus@3.x.x/dist/cdn.min.js
+  - collapse: https://unpkg.com/@alpinejs/collapse@3.x.x/dist/cdn.min.js
+  - morph: https://unpkg.com/@alpinejs/morph@3.x.x/dist/cdn.min.js
+  - core: https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
+
+license:
+  title_of_work: 한국 YWCA 100주년 기념 홈페이지
+  link_to_work: https://koreaywca100th.or.kr
+  creator_of_work: 한국YWCA연합회
+  link_to_creator_profile: https://github.com/team-durumi
+  year_of_creation: 2022
+
+footer:
+  logo: img/100th-logo.png
+  대표전화: 02-774-9702-7
+  팩스: 02-774-9724
+  주소: 서울특별시 중구 명동길 73(명동1가 1-3) 한국YWCA연합회 회관(페이지명동) 4층
+  이메일: koreaywca@ywca.or.kr
+  url: https://ywca.or.kr
+  caption: 한국YWCA연합회
+  github: https://github.com/ywca100/ywca100
+  fb: https://www.facebook.com/ywcakorea/
+  blog: https://blog.naver.com/ywcamail 
+  youtube: https://www.youtube.com/channel/UCfo50PgQsDHt6j3wQ28CQHg

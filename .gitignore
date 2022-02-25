@@ -1,0 +1,15 @@
+#theme
+public
+node_modules
+resources
+hugo_stats.json
+.hugo_build.lock
+
+#exampleSite
+exampleSite-n/*
+exampleSite/static/img/*
+exampleSite/public
+exampleSite/node_modules
+exampleSite/resources
+exampleSite/hugo_stats.json
+exampleSite/.hugo_build.lock

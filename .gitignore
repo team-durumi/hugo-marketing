@@ -13,3 +13,6 @@ exampleSite/node_modules
 exampleSite/resources
 exampleSite/hugo_stats.json
 exampleSite/.hugo_build.lock
+
+#vscode
+*.code-workspace

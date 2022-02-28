@@ -162,16 +162,6 @@ vision:
     “100”, “여성”, “함께” 라는 세 가지 키워드를 가지고 앞으로도 YWCA가 여성과 함께 변화를 향한 활동울
     지속할 것이라는 의미를 가집니다.
   image : img/100th-slogan.png
-  # button
-  button:
-    buttonLeft:
-      enable: true
-      label : 자세히 보기
-      url : /about-aniversary/
-    buttonRight:
-      enable: false
-      label :
-      url :
 
 ##################### tesimonial ########################
 ############# base ###############

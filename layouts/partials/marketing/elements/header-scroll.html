@@ -27,11 +27,13 @@
 <script>
 const nav = {
   atElement: 'hero',
-  navItems: ['#hero', '#feature-program', '#call-to-action', '#feature-projects'],
+  navItems: ['#hero', '#feature-program', '#feature', '#call-to-action', '#feature-projects'],
   setCurrentElement() {
     this.atElement = $('#feature-projects') && $('#feature-projects').getBoundingClientRect().top <= 0 ? 'feature-projects': (
       $('#call-to-action') && $('#call-to-action').getBoundingClientRect().top <= 0 ? 'call-to-action' : (
-        $('#feature-program') && $('#feature-program').getBoundingClientRect().top <= 0 ? 'feature-program' : 'hero'
+        $('#feature') && $('#feature').getBoundingClientRect().top <= 0 ? 'feature' : (
+          $('#feature-program') && $('#feature-program').getBoundingClientRect().top <= 0 ? 'feature-program' : 'hero'
+        )
       )
     )
   }

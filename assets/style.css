@@ -1,14 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-html {
-  font-size: 14px;
-  font-family: "Gothic A1";
-}
-
-@screen md {
-  html {
-    font-size: 16px;
-  }
-}

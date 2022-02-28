@@ -25,7 +25,7 @@ main:
 button:
 - name: 소개
   url: /about-aniversary
-  weight: -110
+  weight: -100
 - name: 프로젝트
   url: /aniversary-promotions
-  weight: -100
+  weight: -90

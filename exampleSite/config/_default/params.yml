@@ -1,28 +1,14 @@
 # themeNoPipe: true
-title: 한국 YWCA 100주년 기념 홈페이지
+title: 한국 YWCA 100주년
 description: 1922년 창립하여 100주년을 맞이한 한국YWCA는 '정의·평 화·창조질서의 보전이 이루어지는 세상을 건설함' 이라는 비전을 갖고 시대와 사회와 함께 다양한 활동과 운동을 전개하고 있습니다.
+images:
+- img/ywca100.png
 
-featuredImages:
-  - img/og-image.png
-logo: img/logo.png
+logo: img/100th-logo.png
 footerLogo: img/100th-identity/symbol-transparent-logo.png
 header:
   bg: bg-white
   text: text-gray-100
-
-googleFonts:
-  - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
-  - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
-
-assets:
-  tailwindcss: https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp
-  alpinejs:
-  - intersect: https://unpkg.com/@alpinejs/intersect@3.x.x/dist/cdn.min.js
-  - persist: https://unpkg.com/@alpinejs/persist@3.x.x/dist/cdn.min.js
-  - focus: https://unpkg.com/@alpinejs/focus@3.x.x/dist/cdn.min.js
-  - collapse: https://unpkg.com/@alpinejs/collapse@3.x.x/dist/cdn.min.js
-  - morph: https://unpkg.com/@alpinejs/morph@3.x.x/dist/cdn.min.js
-  - core: https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
 
 license:
   title_of_work: 한국 YWCA 100주년 기념 홈페이지
@@ -41,5 +27,12 @@ footer:
   caption: 한국YWCA연합회
   github: https://github.com/ywca100/ywca100
   fb: https://www.facebook.com/ywcakorea/
-  blog: https://blog.naver.com/ywcamail 
+  blog: https://blog.naver.com/ywcamail
   youtube: https://www.youtube.com/channel/UCfo50PgQsDHt6j3wQ28CQHg
+
+assets:
+  alpinejs:
+  - core: https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js
+
+googleFonts:
+  notosanskr: https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@100;400;700&display=swap

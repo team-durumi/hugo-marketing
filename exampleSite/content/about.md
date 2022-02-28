@@ -1,7 +1,8 @@
 ---
-title: 소개
-description: 이 캠페인을 소개합니다.
-url: about
+title: 100주년 페이지 소개
+description: 100주년 페이지
+image: /img/100th-slogan.png
+url: about-aniversary
 ---
 {{< partial "marketing/elements/header.html" >}}
 {{< partial "marketing/customs/vision-message.html" >}}

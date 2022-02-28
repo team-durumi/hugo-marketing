@@ -1,0 +1,31 @@
+# https://gohugo.io/content-management/menus/#params
+# identifier params for header scrolling
+main:
+- name: YWCA 100주년
+  url: about-aniversary
+  weight: -110
+  identifier: hero
+- name: 기념 프로그램
+  url: aniversary-promotions
+  weight: -100
+  identifier: feature-program
+- name: 후원
+  url: "/#feature"
+  weight: -90
+  identifier: feature
+- name: 축하인사
+  url: "/#call-to-action"
+  identifier: call-to-action
+  weight: -80
+- name: 활동소식
+  url: "/#card"
+  identifier: card
+  weight: -70
+
+button:
+- name: 소개
+  url: /about-aniversary
+  weight: -110
+- name: 프로젝트
+  url: /aniversary-promotions
+  weight: -100

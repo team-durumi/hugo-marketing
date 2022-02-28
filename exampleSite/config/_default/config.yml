@@ -1,4 +1,4 @@
-title: 한국 YWCA 100주년 기념 홈페이지
+title: 한국 YWCA 100주년
 description: 1922년 창립하여 100주년을 맞이한 한국YWCA는 '정의·평 화·창조질서의 보전이 이루어지는 세상을 건설함' 이라는 비전을 갖고 시대와 사회와 함께 다양한 활동과 운동을 전개하고 있습니다.
 
 languageCode: ko-kr
@@ -8,7 +8,6 @@ hasCJKLanguage: true
 build:
   writeStats: true
 
-googleAnalytics:
 disableKinds:
 - taxonomy
 - term

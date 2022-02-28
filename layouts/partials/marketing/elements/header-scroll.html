@@ -1,8 +1,5 @@
-<header class="text-gray-900">
-  <div class="container mx-auto flex flex-wrap px-5 py-4 flex-col md:flex-row items-center"
-    x-data="{atElement: 'introduce'}"
-      @scroll.window="atElement = document.querySelector('#more').getBoundingClientRect().top <= 0 ? 'more' : (document.querySelector('#news').getBoundingClientRect().top <= 0 ? 'news': (document.querySelector('#review').getBoundingClientRect().top <= 0 ? 'review' : 'introduce'))"
-  >
+<header class="fixed top-0 w-full bg-white text-gray-900 mb-96 z-30">
+  <div x-data="nav" @scroll.window="setCurrentElement()" class="container mx-auto flex flex-wrap px-5 py-4 flex-col md:flex-row items-center">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
       {{ if .Site.Params.logo }}
         <img class="max-w-xs" src="{{ .Site.Params.logo | absURL }}">
@@ -15,7 +12,7 @@
     </a>
     <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-md lg:text-lg justify-center">
       {{ range site.Menus.main }}
-        <a :class="{ 'bg-gray-900' : atElement==='#{{ .Identifier }}' }" class="mr-7 hover:border-b-2 hover:border-blue-500 hover:text-blue-500 " href="#{{ .Identifier }}">{{ .Name }}</a>
+        <a :class="{ 'text-blue-500 border-blue-500 border-b-2' : atElement === '{{ .Identifier }}' }" class="mr-7 hover:border-b-2 hover:border-blue-500 hover:text-blue-500 " href="#{{ .Identifier }}">{{ .Name }}</a>
       {{ end }}
     </nav>
     <ul class="mt-4 sm:mt-1">
@@ -27,3 +24,16 @@
     </ul>
   </div>
 </header>
+<script>
+const nav = {
+  atElement: 'hero',
+  navItems: ['#hero', '#feature-program', '#call-to-action', '#feature-projects'],
+  setCurrentElement() {
+    this.atElement = $('#feature-projects') && $('#feature-projects').getBoundingClientRect().top <= 0 ? 'feature-projects': (
+      $('#call-to-action') && $('#call-to-action').getBoundingClientRect().top <= 0 ? 'call-to-action' : (
+        $('#feature-program') && $('#feature-program').getBoundingClientRect().top <= 0 ? 'feature-program' : 'hero'
+      )
+    )
+  }
+}
+</script>

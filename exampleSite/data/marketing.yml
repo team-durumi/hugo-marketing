@@ -15,9 +15,40 @@ carousel:
     alt: 'YWCA 100년'
     caption: 'YWCA 100년'
 
+##################### hero-right/left ########################
+############# basic / image-right / image-left ###############
+hero:
+  enable: true
+  layout: image-right
+  bg: bg-gray-100
+  bgImage: /img/covers/background-transparent.png
+  category: YWCA100주년
+  title: YWCA와 함께한 100년
+  subtitle: 초기 YWCA 지도자
+  content: |
+    1922년 창립하여 100주년을 맞이한 한국YWCA는
+
+    “정의·평화·창조질서의 보전이 이루어지는 세상을 건설함“이라는
+
+    비전을 갖고 시대와 사회와 함께
+
+    다양한 활동과 운동을 전개하고 있습니다.
+  image : img/index/first-leader-korea-ywca.jpg
+  # button
+  button:
+    buttonLeft:
+      enable: true
+      label: 자세히 보기
+      url: /about-aniversary/
+    buttonRight:
+      enable: false
+      label:
+      url:
+
 ##################### custom/feature-program ########################
 featureProgram:
   enable: true
+  category: 기념 프로그램
   title: 한국YWCA연합회 창립100주년 비전과 바람
   bg: bg-gray-100
   bgImage:
@@ -44,24 +75,93 @@ featureProgram:
     label: 자세히 보기
     url: /aniversary-promotions
 
-##################### hero-right/left ########################
-############# basic / image-right / image-left ###############
-hero:
+##################### feature ########################
+############# base ###############
+feature:
+  enable : true
+  layout :
+  bg: bg-gray-200
+  bgImage: /img/covers/background.png
+  category: 후원
+  title : If not me, then who?
+  subtitle :
+  content : >
+    1922년, 여성 해방을 위해
+    함께 모인 활동가들의
+    열정과 헌신을 기억합니다.
+
+    한국YWCA는 지난 100년 간
+    여성의 인권과 삶에 집중하며,
+    여성과 함께 변화를 향한 다양한 사업 활동과
+    운동을 전개하고 있습니다.
+
+    100년을 넘어
+    새로운 100년의 항해를 시작하는
+    YWCA와 함께해주세요.
+  image : img/index/donation-02.jpg
+  # button
+  button:
+    enable : true
+    label : 한국 YWCA연합회 창립 100주년 후원하기
+    url : https://box.donus.org/box/koreaywca/ywca100fund
+
+####################### call to actions #####################
+cta:
+  layout :
+  bg : bg-gray-600
+  bgImage: /img/covers/background-transparent.png
+  enable : true
+  category : 축하인사
+  title : 함께 나누는 100년의 기쁨
+  subtitle :
+  content : 함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨
+  image : img/index/donation-02.jpg
+  # button
+  button:
+    enable : true
+    label : 더 많은 영상 보러가기
+    url : https://www.youtube.com/playlist?list=PLBwod6qgK7PXTp0yjfashX2nUxWHEfOWu
+
+############################ feature-projects ##########################
+featureProjects:
+  bg: bg-white
+  category : 활동소식
+  title : YWCA100주년 활동소식
+  enable : true
+  content : >
+    YWCA100th Anniversary Archive
+    한국YWCA 100주년 소식과 자료들을 모았습니다.
+  listItem:
+    - category : 링크
+      topMargin: content-start
+      title : 활동소식
+      description : 활동소식
+      image : /img/index/promotion-01.jpg
+      buttonLabel : 활동 소식 보러가기
+      buttonUrl : https://ywca.or.kr/activity/100th/?tab=news
+    - category : 링크
+      topMargin: content-end
+      title : 관련자료
+      description : 관련자료
+      image : /img/index/promotion-02.jpg
+      buttonLabel : 관련 자료 보러가기
+      buttonUrl : https://ywca.or.kr/activity/100th/?tab=reference
+
+##################### vision ########################
+############# 100주년 비전문 (임시로 슬로건으로 대체)###############
+vision:
   enable: true
   layout: image-right
   bg: bg-gray-100
   bgImage: /img/covers/background-transparent.png
-  title: YWCA와 함께한 100년
+  title: 한국YWCA 100주년 기념 슬로건
   subtitle : 초기 YWCA 지도자
   content : |
-    1922년 창립하여 100주년을 맞이한 한국YWCA는
-
-    “정의·평화·창조질서의 보전이 이루어지는 세상을 건설함“이라는
-
-    비전을 갖고 시대와 사회와 함께
-
-    다양한 활동과 운동을 전개하고 있습니다.
-  image : img/index/first-leader-korea-ywca.jpg
+    한국YWCA는 100년의 역사를 가진 유일한 여성단체입니다.
+    한국YWCA 100주년 기념 슬로건은
+    “100”, “여성”, “함께” 라는 세 가지 키워드를 가지고 앞으로도 YWCA가 여성과 함께 변화를 향한 활동울
+    지속할 것이라는 의미를 가집니다.
+  image : img/100th-slogan.png
   # button
   button:
     buttonLeft:
@@ -72,6 +172,16 @@ hero:
       enable: false
       label :
       url :
+
+##################### tesimonial ########################
+############# base ###############
+tesimonial:
+  enable : true
+  layout : 1-column
+  message : 폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스
+  speaker : 홍길동
+  speaker_role : Representative
+  image : /img/100th-slogan.png
 
 ############################ card ##########################
 ############# 1-column / 3-column / 4-column ###############
@@ -129,87 +239,4 @@ card:
       author: 작성자
       creator: 홍보팀
       url : https://ywca.or.kr/board_news/12137/
-      target_label : 더 보기
-
-
-##################### feature ########################
-############# base ###############
-feature:
-  enable : true
-  layout :
-  bg: bg-gray-200
-  bgImage: /img/covers/background.png
-  title : If not me, then who?
-  subtitle :
-  content : >
-    1922년, 여성 해방을 위해
-    함께 모인 활동가들의
-    열정과 헌신을 기억합니다.
-
-    한국YWCA는 지난 100년 간
-    여성의 인권과 삶에 집중하며,
-    여성과 함께 변화를 향한 다양한 사업 활동과
-    운동을 전개하고 있습니다.
-
-    100년을 넘어
-    새로운 100년의 항해를 시작하는
-    YWCA와 함께해주세요.
-  image : img/index/donation-02.jpg
-  # button
-  button:
-    enable : true
-    label : 한국 YWCA연합회 창립 100주년 후원하기
-    url : https://box.donus.org/box/koreaywca/ywca100fund
-
-####################### call to actions #####################
-cta:
-  layout :
-  bg : bg-gray-600
-  bgImage: /img/covers/background-transparent.png
-  enable : true
-  category : 축하인사
-  title : 함께 나누는 100년의 기쁨
-  subtitle :
-  content : 함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨함께 나누는 100년의 기쁨
-  image : img/index/donation-02.jpg
-  # button
-  button:
-    enable : true
-    label : 더 많은 영상 보러가기
-    url : https://www.youtube.com/playlist?list=PLBwod6qgK7PXTp0yjfashX2nUxWHEfOWu
-
-##################### vision ########################
-############# 100주년 비전문 (임시로 슬로건으로 대체)###############
-vision:
-  enable: true
-  layout: image-right
-  bg: bg-gray-100
-  bgImage: /img/covers/background-transparent.png
-  title: 한국YWCA 100주년 기념 슬로건
-  subtitle : 초기 YWCA 지도자
-  content : |
-    한국YWCA는 100년의 역사를 가진 유일한 여성단체입니다.
-    한국YWCA 100주년 기념 슬로건은
-    “100”, “여성”, “함께” 라는 세 가지 키워드를 가지고 앞으로도 YWCA가 여성과 함께 변화를 향한 활동울
-    지속할 것이라는 의미를 가집니다.
-  image : img/100th-slogan.png
-  # button
-  button:
-    buttonLeft:
-      enable: true
-      label : 자세히 보기
-      url : /about-aniversary/
-    buttonRight:
-      enable: false
-      label :
-      url :
-
-##################### tesimonial ########################
-############# base ###############
-tesimonial:
-  enable : true
-  layout : 1-column
-  message : 폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스폴더형태로 저장되어 있는 사용자의 개별 클라우드 서비스
-  speaker : 홍길동
-  speaker_role : Representative
-  image : /img/100th-slogan.png
+      target_label : 더 보기  

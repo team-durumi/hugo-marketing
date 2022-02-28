@@ -18,8 +18,8 @@ main:
   identifier: call-to-action
   weight: -80
 - name: 활동소식
-  url: "/#card"
-  identifier: card
+  url: "/#feature-projects"
+  identifier: feature-projects
   weight: -70
 
 button:

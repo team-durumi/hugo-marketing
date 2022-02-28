@@ -213,3 +213,9 @@ tesimonial:
   speaker : 홍길동
   speaker_role : Representative
   image : /img/100th-slogan.png
+
+
+# 조직도
+orgChart:
+  title: 한국YWCA 100주년 준비단 조직도
+  image: /img/org-chart.png

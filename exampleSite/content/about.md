@@ -8,5 +8,6 @@ url: about-aniversary
 {{< partial "marketing/customs/vision-message.html" >}}
 {{< partial "marketing/sections/text.html" >}}
 {{< partial "marketing/sections/org-chart.html" >}}
+{{< partial "marketing/sections/gallery.html" >}}
 {{< partial "marketing/sections/testimonial.html" >}}
 {{< partial "marketing/elements/footer.html" >}}

@@ -30,7 +30,7 @@ carousel:
   enable: true
   bg: bg-gray-900
   listItem:
-  - src: https://r2.ccwps.org/resize/R2-Scanned000016.jpg
+  - src: https://r2.ccwps.org/resize/R2-Scanned000082.jpg
     alt: 'test carousel slide explain images'
     caption: '냉전아시아 영상아카이브 슬라이드 1'
   - src: https://r2.ccwps.org/resize/R2-Scanned000016.jpg

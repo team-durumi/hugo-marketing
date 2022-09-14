@@ -4,6 +4,6 @@ title: S4 일상
 weight: 
 type: page
 components: 
-  - "/img/R1-093.jpg"
+  - "https://r2.ccwps.org/resize/R1-093.jpg"
 description: "Series 4 일상"
 ---

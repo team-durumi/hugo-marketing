@@ -5,6 +5,6 @@ weight:
 type: page
 level_of_description: Seires(시리즈)
 components: 
-  - "/img/R1-187.jpg"
+  - "https://r2.ccwps.org/resize/R1-187.jpg"
 description: "Series 1 포로&수용소"
 ---

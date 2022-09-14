@@ -4,6 +4,6 @@ title: S2 피난민
 weight: 
 type: page
 components: 
-  - "/img/R1-013_1.jpg"
+  - "https://r2.ccwps.org/resize/R1-013_1.jpg"
 description: "Series 2 피난민"
 ---

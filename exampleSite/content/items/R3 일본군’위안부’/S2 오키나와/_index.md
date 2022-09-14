@@ -4,6 +4,6 @@ title: S2 오키나와
 weight: 
 type: page
 components: 
-  - "/img/comfortwomen-02.JPG"
+  - "https://r2.ccwps.org/resize/comfortwomen-02.JPG"
 description: "R3-Series 2 오키나와"
 ---

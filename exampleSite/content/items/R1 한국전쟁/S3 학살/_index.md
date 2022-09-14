@@ -4,6 +4,6 @@ title: S3 학살
 weight: 
 type: page
 components: 
-  - "/img/R1-007.jpg"
+  - "https://r2.ccwps.org/resize/R1-007.jpg"
 description: "Series 3 학살"
 ---

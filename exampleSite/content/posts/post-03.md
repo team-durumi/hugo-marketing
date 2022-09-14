@@ -1,9 +1,9 @@
 ---
-title: "[학술회의]디지털아카이브 기준"
-date: 2022-09-01
+title: "[사업]제목입니다."
+date: 2021-08-01
 public_access_status: true
-categories: 
-  - "meetings"
+categories:
+  - "projects"
 ---
 
 ## Data

@@ -4,6 +4,6 @@ title: S3 접경지역
 weight: 2
 type: page
 components: 
-  - "/img/R2-Scanned000065.jpg"
+  - "https://r2.ccwps.org/resize/R2-Scanned000065.jpg"
 description: "Series 3 접경지역"
 ---

@@ -4,5 +4,5 @@ title: R3 일본군’위안부’
 weight: 3
 type: page
 components: 
-  - "/img/R2-Scanned000016.jpg"
+  - "https://r2.ccwps.org/resize/comfortwomen-01.png"
 ---

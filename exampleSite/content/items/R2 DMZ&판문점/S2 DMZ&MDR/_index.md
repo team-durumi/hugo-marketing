@@ -4,6 +4,6 @@ title: S2 DMZ&MDR
 weight: 2
 type: page
 components: 
-  - "/img/R2-Scanned000082.jpg"
+  - "https://r2.ccwps.org/resize/R2-Scanned000082.jpg"
 description: "Series 2 DMZ&MDR"
 ---

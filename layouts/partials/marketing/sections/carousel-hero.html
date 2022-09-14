@@ -1,6 +1,6 @@
 {{/*  Carousel  */}}
 <script src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.js"></script>
-<section id="carousel" class="{{ .Site.Data.marketing.carousel.bg }} mx-auto flex items-center flex-wrap">
+<section id="carousel" class="{{ .Site.Data.marketing.carousel.bg }} mx-auto flex items-center flex-wrap z-100">
   <div x-data="carousel" class="flex flex-col">
     <div class="flex" x-on:keydown.right="next" x-on:keydown.left="prev" tabindex="0" role="region" aria-labelledby="carousel-label">
       <button x-on:click="prev" class="text-6xl text-gray-100 absolute left-3 z-10 top-3/4 -mt-24">

@@ -10,10 +10,12 @@
       <ul x-ref="slider" class="flex w-full overflow-x-scroll" tabindex="0" role="listbox" aria-labelledby="carousel-content-label">
         {{ range .Site.Data.marketing.carousel.listItem }}
           <li class="relative snap-start w-full shrink-0 flex flex-col items-center justify-center" role="option">
-            <img class="mt-2 object-cover w-full h-screen" src="{{ .src | absURL }}" alt="{{ .alt }}">
-            <button x-bind="focusableWhenVisible" class="absolute inset-0 px-4 py-2 font-sans text-6xl">
-              <span class="text-white bg-blue-700 opacity-80 p-5">{{ .caption }}</span>
-            </button>
+            <a href="{{ .url | absURL }}">
+              <img class="mt-2 object-cover w-full h-screen" src="{{ .src | absURL }}" alt="{{ .alt }}">
+              <button x-bind="focusableWhenVisible" class="absolute inset-0 px-4 py-2 font-sans text-6xl">
+                <span class="text-white bg-blue-700 opacity-80 p-5">{{ .caption }}</span>
+              </button>
+            </a>
           </li>
         {{ end }}
       </ul>

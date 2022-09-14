@@ -11,6 +11,6 @@ description: 냉전아시아 영상아카이브
 {{< partial "marketing/sections/hero.html" >}}
 {{< partial "marketing/sections/card.html" >}}
 {{< partial "marketing/sections/faqs.html" >}}
-{{< partial "marketing/sections/gallery.html" >}}
+{{< partial "marketing/customs/network-org.html" >}}
 
 {{< partial "marketing/elements/footer-wide.html" >}}

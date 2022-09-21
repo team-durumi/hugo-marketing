@@ -16,14 +16,14 @@
     {{ $styles := resources.Get "style.css" | resources.PostCSS (dict "inlineImports" true) }}
     {{ $styles = $styles | resources.ExecuteAsTemplate "assets/style.css" . | minify | resources.PostProcess }}
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+    {{- $js := resources.Get "index.js" | js.Build (dict "targetPath" "assets/index.js") -}}
+    {{- if hugo.IsProduction }}{{ $js = $js | minify }}{{ end -}}
+    <script src="{{ $js.RelPermalink }}" defer></script>
   </head>
   <body>
     {{- block "header" . }}{{- end }}
     {{- block "main" . }}{{- end }}
     {{- block "footer" . }}{{- end }}
-    {{- $js := resources.Get "index.js" | js.Build (dict "targetPath" "assets/index.js") -}}
-    {{- if hugo.IsProduction }}{{ $js = $js | minify }}{{ end -}}
-    <script src="{{ $js.RelPermalink }}" defer></script>
     {{- block "footerJs" . }}{{ end -}}
   </body>
 </html>

@@ -468,3 +468,11 @@ featureProgram:
     enable: true
     label: 자세히 보기
     url: /aniversary-promotions
+
+############################ featured-No ##########################
+featuredNumbers:
+  enable : true
+  title : 냉전평화연구센터 디지털아카이브 
+  subtitle : items 공개현황
+  content : 2021년 현재 아카이브는 아래와 같은 아이템 및 연관 콘텐츠를 제공하고 있습니다. 2021년 냉전평화연구센터가 수집한 한국전쟁 / DMZ 관련된 영상 아이템을 중심으로 오픈합니다.
+  image : https://r2.ccwps.org/resize/R1-007.jpg

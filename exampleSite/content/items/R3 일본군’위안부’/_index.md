@@ -5,4 +5,6 @@ weight: 3
 type: page
 components: 
   - "https://r2.ccwps.org/resize/comfortwomen-01.png"
+level_of_description: 레코드그룹(record group)
+description: "일본군’위안부’ 레코드그룹에 대한 설명입니다."    
 ---

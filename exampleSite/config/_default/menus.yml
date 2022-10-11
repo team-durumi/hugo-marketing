@@ -68,10 +68,6 @@ main:
   - name: 콘텐츠
     url: 
     weight: -70
-  - name: 쇼츠
-    url: /shorts
-    weight: 1
-    parent: 콘텐츠
 button:
 - name: 검색
   url: https://catalog.facwa.kr/

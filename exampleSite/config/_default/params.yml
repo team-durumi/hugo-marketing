@@ -4,8 +4,8 @@ description: 동아시아 및 한국의 전쟁･냉전, 평화, 일제의 식�
 images:
   - img/site-feature-image.png
 
-logo: https://r2.ccwps.org/facwa_logo.svg
-footerLogo: https://r2.ccwps.org/facwa_logo.svg
+logo: /img/facwa_logo.svg
+footerLogo: /img/facwa_logo.svg
 
 license:
   title_of_work: 성공회대학교 동아시아연구소 냉전평화연구센터
@@ -15,7 +15,7 @@ license:
   year_of_creation: 2022
   
 footer:
-  logo: https://r2.ccwps.org/facwa_logo.svg
+  logo: /img/facwa_logo.svg
   대표전화: 02-0000-0000
   팩스: 02-0000-0000
   주소: Somewhere in Seoul

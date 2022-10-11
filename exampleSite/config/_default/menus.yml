@@ -16,19 +16,19 @@ main:
     url: 
     weight: -100
   - name: 학술회의
-    url: /posts/
+    url: /categories/meetings
     weight: 1
     parent: 성과
   - name: 사업
-    url: /posts/
+    url: /categories/projects
     weight: 2
     parent: 성과 
   - name: 논문
-    url: /posts/
+    url: /categories/articles
     weight: 3
     parent: 성과
   - name: 책
-    url: /posts/
+    url: /categories/books
     weight: 4
     parent: 성과                    
   - name: 영상 탐색
@@ -41,7 +41,7 @@ main:
   - name: 검색
     url: /search
     weight: 2
-    parent: 영상 탐색        
+    parent: 영상 탐색
   - name: 컬렉션
     url: 
     weight: -80

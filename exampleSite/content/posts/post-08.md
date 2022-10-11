@@ -1,5 +1,5 @@
 ---
-title: "[책]제목입니다."
+title: "[책]제목입니다.제목입니다.제목입니다.제목입니다.제목입니다.제목입니다.제목입니다."
 date: 2021-08-14  
 public_access_status: true
 categories: 

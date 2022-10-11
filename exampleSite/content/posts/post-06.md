@@ -1,5 +1,5 @@
 ---
-title: "[논문]제목입니다."
+title: "[논문]파주 DMZ 및 접경지역 국외자료조사 해제연구"
 date: 2021-08-14  
 public_access_status: true
 categories: 

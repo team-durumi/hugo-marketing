@@ -1,9 +1,11 @@
 ---
-title: "[학술회의]디지털아카이브 기준"
+title: "[심포지엄]영상으로 본 냉전아시아의 사상심리전과 정동"
 date: 2022-09-01
 public_access_status: true
 categories: 
   - "meetings"
+components: 
+  - "https://r2.ccwps.org/resize/R1-187.jpg"  
 ---
 
 ## Data

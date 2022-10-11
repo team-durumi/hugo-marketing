@@ -1,6 +1,6 @@
 ---
-title: "[사업]제목입니다."
-date: 2021-08-01
+title: "[사업]2017-2018년 통영시 근현대 건조물 문헌 및 현장 조사 사업 참여"
+date: 2017-12-31
 public_access_status: true
 categories:
   - "projects"

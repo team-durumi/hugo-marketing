@@ -4,15 +4,12 @@ description: 영상의 경우, 거대한 수집기관보다 미군 영상카메�
 ---
 
 {{< partial "marketing/elements/header.html" >}}
-
-냉전평화연구센터 소개
-공개하고 있는 아이템의 전체적인 숫자 데이터
+{{< partial "marketing/customs/banner--sticky-top.html" >}}
 {{< partial "marketing/customs/feature-statistic.html" >}}
-대표 사진과 간단한 설명
-{{< partial "marketing/customs/photo-static.html" >}}
-{{< partial "marketing/customs/feature-projects.html" >}}
-{{< partial "marketing/customs/feature-program.html" >}}
-{{< partial "marketing/customs/banner.html" >}}
-공개된 item에 대한 목록
-{{< partial "roll/browse/simple-browse-tab" >}}
+{{< partial "marketing/customs/two-box.html" >}}
+
+{{< partial "marketing/sections/hero.html" >}}
+{{< partial "marketing/sections/faqs.html" >}}
+{{< partial "marketing/customs/cta.html" >}}
+
 {{< partial "marketing/elements/footer-wide.html" >}}

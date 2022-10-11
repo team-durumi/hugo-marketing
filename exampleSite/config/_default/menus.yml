@@ -39,7 +39,7 @@ main:
     weight: 1
     parent: 영상 탐색
   - name: 검색
-    url: /search
+    url: https://catalog.facwa.kr/
     weight: 2
     parent: 영상 탐색
   - name: 컬렉션
@@ -74,5 +74,5 @@ main:
     parent: 콘텐츠
 button:
 - name: 검색
-  url: /search
+  url: https://catalog.facwa.kr/
   weight: -90

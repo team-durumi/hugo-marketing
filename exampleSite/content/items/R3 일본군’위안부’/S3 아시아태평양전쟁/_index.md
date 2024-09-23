@@ -5,6 +5,6 @@ weight: 3
 type: page
 level_of_description: Seires(시리즈)
 components: 
-  - "https://r2.ccwps.org/resize/comfortwomen-03.png"
+  - "https://r2.facwa.kr/resize/comfortwomen-03.png"
 description: "R3-Series 3 아시아태평양전쟁"
 ---

@@ -5,7 +5,7 @@ public_access_status: true
 categories: 
   - "meetings"
 components: 
-  - "https://r2.ccwps.org/resize/R1-187.jpg"  
+  - "https://r2.facwa.kr/resize/R1-187.jpg"  
 ---
 
 

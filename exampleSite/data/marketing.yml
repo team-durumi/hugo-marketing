@@ -20,10 +20,10 @@ user:
     url : http://ieas21.or.kr/
     caption: 동아시아연구소
     youtube : https://www.youtube.com/playlist?list=PLCNJCqoVaS60YcZyApHq9vXsNEi859VLD
-    fb : 
-    tw : 
-    instagram : 
-    linkedin : 
+    fb :
+    tw :
+    instagram :
+    linkedin :
 
 ########################## caruousel.html ##########################
 carousel:
@@ -50,13 +50,13 @@ hero:
   enable: true
   layout: image-right
   bg: bg-gray-100
-  bgImage: 
+  bgImage:
   category: 학술회의
   title: 성공회대학교 동아시아연구소
   subtitle: 초기 YWCA 지도자
   content: |
     <영상으로 본 냉전아시아의 사상심리전과 정동> 미군의 한국전쟁 및 냉전 영상을 중심으로. 일시 - 2021년 3월 27일(토) 13시-18시20분
-  image : https://r2.ccwps.org/resize/comfortwomen-01.png
+  image : https://r2.facwa.kr/resize/comfortwomen-01.png
   # button
   button:
     buttonLeft:
@@ -81,7 +81,7 @@ card:
 
     - category : 1부
       title : 임재근
-      description : (합본)교량과 철도 파괴의 사각과 정동 - 한국전쟁 대전 관련 영상을 중심으로 
+      description : (합본)교량과 철도 파괴의 사각과 정동 - 한국전쟁 대전 관련 영상을 중심으로
       image : https://img.youtube.com/vi/KfEK6p824o0/sddefault.jpg
       date: 2021.03.27
       identifier: ccwps-01
@@ -90,13 +90,13 @@ card:
       url : https://www.youtube.com/embed/KfEK6p824o0
     - category : 1부
       title : 한국 문산 리틀 스위치 작전(OPERATION LITTLE SWITCH, LITTLE SWAP, TRAIN ENROUTE TO MUNSAN-NI, KOREA)
-      description : 이 영상은 1953년 4월 24일 부산에서 대구를 거쳐 문산역으로 가는 열차에서 북한인민군 부상포로 송환과 자유의 마을에 설치된 포로 인수센터 등을 보여주고 있다. 1953년 4월 20일부터 부상포로 교환이 시작되었는데 매일 부산에서 출발해 대구를 거쳐 영등포와 문산역으로 향하고 있다. 부상포로들은 열차에서 쉬면서 주변 풍경들을 보는 장면이 이채롭다. 이들은 대구역에서 잠시 쉬었다가 영등포역을 거쳐 문산역으로 향했다. 영상에는 문산역에서 대성동 자유의 마을까지 가는 과정을 보여주고 포로교환의 중요한 포인터인 인수본부와 주변 시설들을 담아내고 있다. 또한 거제도나 제주도에서 부상포로가 부산항으로 들어오는 과정을 마지막에 나온다. 이 영상은 편집되지 않은 것이다. 
+      description : 이 영상은 1953년 4월 24일 부산에서 대구를 거쳐 문산역으로 가는 열차에서 북한인민군 부상포로 송환과 자유의 마을에 설치된 포로 인수센터 등을 보여주고 있다. 1953년 4월 20일부터 부상포로 교환이 시작되었는데 매일 부산에서 출발해 대구를 거쳐 영등포와 문산역으로 향하고 있다. 부상포로들은 열차에서 쉬면서 주변 풍경들을 보는 장면이 이채롭다. 이들은 대구역에서 잠시 쉬었다가 영등포역을 거쳐 문산역으로 향했다. 영상에는 문산역에서 대성동 자유의 마을까지 가는 과정을 보여주고 포로교환의 중요한 포인터인 인수본부와 주변 시설들을 담아내고 있다. 또한 거제도나 제주도에서 부상포로가 부산항으로 들어오는 과정을 마지막에 나온다. 이 영상은 편집되지 않은 것이다.
       image : https://img.youtube.com/vi/SK0CF9j-uSc/sddefault.jpg
       date: 1953.04.24
       identifier: ccwps-02
       author: 김일환
       creator: RG 111-LC-32406, NARA
-      url : https://www.youtube.com/embed/SK0CF9j-uSc    
+      url : https://www.youtube.com/embed/SK0CF9j-uSc
 
     - category : 1부
       title : 리틀스위치, 한국군 제5 이동식외과병원, 문산리 LITTLE SWITCH, 5TH ROK MASH, MUNSAN-NI, KOREA
@@ -110,7 +110,7 @@ card:
 
     - category : 1부
       title : 빅 스위치, 문산리, 판문점 BIG SWITCH, MUNSAN-NI AND PANMUNJOM, KOREA
-      description : 이 영상에서는 1953년 8월의 빅스위치 작전의 8월 6일자 작전의 모습을 보여준다. 
+      description : 이 영상에서는 1953년 8월의 빅스위치 작전의 8월 6일자 작전의 모습을 보여준다.
       image : https://img.youtube.com/vi/t9SoEBrc-Io/sddefault.jpg
       date: 2021.03.27
       identifier: ccwps-04
@@ -120,13 +120,13 @@ card:
 
     - category : 1부
       title : 한국 포항, 복원작전(한국군이 석방한 북한군 포로)(OPERATION RECOVERY (RELEASE OF NORTH KOREAN SOLDIERS WHO WERE TAKEN PRISONERS OF WAR BY THE SOUTH KOREAN ARMY), POHANG DONG, KOREA)
-      description : 1954년 1월 21일 판문점에서 석방된 미송환포로들이 포항 신병훈련소에 입영하는 모습을 보여주고 있다. 
+      description : 1954년 1월 21일 판문점에서 석방된 미송환포로들이 포항 신병훈련소에 입영하는 모습을 보여주고 있다.
       image : https://img.youtube.com/vi/MXPOgefJSqE/sddefault.jpg
       date: 2021.01.21 - 2021.01.23
       identifier: ccwps-05
       author: 김일환
       creator: RG 1111-LC-34807, NARA
-      url : https://www.youtube.com/embed/MXPOgefJSqE    
+      url : https://www.youtube.com/embed/MXPOgefJSqE
 
     - category : 2부
       title : 전갑생
@@ -176,7 +176,7 @@ card:
       identifier: ccwps-10
       author: 정영신
       creator: 합본, NARA
-      url : https://www.youtube.com/embed/mmH1yYhYhis    
+      url : https://www.youtube.com/embed/mmH1yYhYhis
 
 ############################ faqs ##########################
 faq:
@@ -193,7 +193,7 @@ faq:
       answer : 1.냉전 아시아와 평화 연구의 거점 / 2. 냉전 평화 디지털 아카이브 구축 / 3. (탈)냉전 평화 교육과 교류의 허브
 
     - question : 관련된 자료들을 기사/논문/영상에 참조하기 위해서는 어떤 규정을 지켜야 하나요 ?
-      answer : 현재 보고 있는 기사 / 논문 / 영상은 완전히 공개되어 있는 자료입니다. 영상에 대한 해제, 코멘트 등에 대한 번역저작권은 "성공회대학교 동아시아연구소 냉전평화연구센터의 자료"임을 밝히고 사용해 주세요. 
+      answer : 현재 보고 있는 기사 / 논문 / 영상은 완전히 공개되어 있는 자료입니다. 영상에 대한 해제, 코멘트 등에 대한 번역저작권은 "성공회대학교 동아시아연구소 냉전평화연구센터의 자료"임을 밝히고 사용해 주세요.
 
 ########################### gallery #########################
 ########################### 6 images ########################
@@ -201,28 +201,28 @@ gallery:
   section_title: '냉전아시아영상아카이브 gallery'
   listItems:
     # left up left small
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
-      alt: 
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
+      alt:
     # left up right small
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
-      alt: 
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
+      alt:
     # left down big
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
       alt:
     # right up big
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
       alt:
     # right down left small
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
-      alt: 
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
+      alt:
     # right down right small
-    - src: "https://r2.ccwps.org/resize/R1-007.jpg"
-      alt: 
+    - src: "https://r2.facwa.kr/resize/R1-007.jpg"
+      alt:
 
 ############################ featured-No ##########################
 featuredNumbers:
   enable : true
-  title : 냉전평화연구센터 디지털아카이브 
+  title : 냉전평화연구센터 디지털아카이브
   subtitle : items 공개현황
   content : 2021년 현재 아카이브는 아래와 같은 아이템 및 연관 콘텐츠를 제공하고 있습니다. 2021년 냉전평화연구센터가 수집한 한국전쟁 / DMZ 관련된 영상 아이템을 중심으로 오픈합니다.
   image : img/R2-Scanned000016.jpg
@@ -244,8 +244,8 @@ twobox:
     - title : Record Group 2
       subtitle : DMZ
       image : img/R2-Scanned000016.jpg
-      content : 
-        수집된 영상들은 국문 Shotlist(영상 내용)이 작성되어 있다. 
+      content :
+        수집된 영상들은 국문 Shotlist(영상 내용)이 작성되어 있다.
         한국전쟁 전후의 파주, 문산 지역 및 DMZ 지역에 대한 확인하지 못 했던 영상들에 대한 기록이다.
       urlLabel : 탐색 페이지에서 기록 보기
       url : /items/r2-dmz/
@@ -266,7 +266,7 @@ faq:
       answer : 1.냉전 아시아와 평화 연구의 거점 / 2. 냉전 평화 디지털 아카이브 구축 / 3. (탈)냉전 평화 교육과 교류의 허브
 
     - question : 관련된 자료들을 기사/논문/영상에 참조하기 위해서는 어떤 규정을 지켜야 하나요 ?
-      answer : 현재 보고 있는 기사 / 논문 / 영상은 완전히 공개되어 있는 자료입니다. 영상에 대한 해제, 코멘트 등에 대한 번역저작권은 "성공회대학교 동아시아연구소 냉전평화연구센터의 자료"임을 밝히고 사용해 주세요. 
+      answer : 현재 보고 있는 기사 / 논문 / 영상은 완전히 공개되어 있는 자료입니다. 영상에 대한 해제, 코멘트 등에 대한 번역저작권은 "성공회대학교 동아시아연구소 냉전평화연구센터의 자료"임을 밝히고 사용해 주세요.
 
 ####################### call to actions #####################
 
@@ -295,7 +295,7 @@ cta:
 featureProjects:
   bg: bg-white
   category :
-  title : 
+  title :
   enable : true
   content :
   listItem:
@@ -303,23 +303,23 @@ featureProjects:
       topMargin: content-start
       title : RG-01
       description : 활동소식
-      image : https://r2.ccwps.org/resize/R1-007.jpg
+      image : https://r2.facwa.kr/resize/R1-007.jpg
       buttonLabel : 활동 소식 보러가기
       buttonUrl : https://ywca.or.kr/activity/100th/?tab=news
     - category : 링크
       topMargin: content-end
       title : RG-02
       description : 관련자료
-      image : https://r2.ccwps.org/resize/R1-007.jpg
+      image : https://r2.facwa.kr/resize/R1-007.jpg
       buttonLabel : 관련 자료 보러가기
       buttonUrl : https://ywca.or.kr/activity/100th/?tab=reference
     - category : 링크
       topMargin: content-end
       title : RG-03
       description : 관련자료
-      image : https://r2.ccwps.org/resize/R1-007.jpg
+      image : https://r2.facwa.kr/resize/R1-007.jpg
       buttonLabel : 관련 자료 보러가기
-      buttonUrl : https://ywca.or.kr/activity/100th/?tab=reference      
+      buttonUrl : https://ywca.or.kr/activity/100th/?tab=reference
 
 ##################### custom/feature-program ########################
 featureProgram:
@@ -354,7 +354,7 @@ featureProgram:
 ############################ featured-No ##########################
 featuredNumbers:
   enable : true
-  title : 냉전평화연구센터 디지털아카이브 
+  title : 냉전평화연구센터 디지털아카이브
   subtitle : items 공개현황
   content : 2021년 현재 아카이브는 아래와 같은 아이템 및 연관 콘텐츠를 제공하고 있습니다. 2021년 냉전평화연구센터가 수집한 한국전쟁 / DMZ 관련된 영상 아이템을 중심으로 오픈합니다.
-  image : https://r2.ccwps.org/resize/R1-007.jpg
+  image : https://r2.facwa.kr/resize/R1-007.jpg

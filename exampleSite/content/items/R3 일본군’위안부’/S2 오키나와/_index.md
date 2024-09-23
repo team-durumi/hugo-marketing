@@ -5,6 +5,6 @@ weight: 2
 type: page
 level_of_description: Seires(시리즈)
 components: 
-  - "https://r2.ccwps.org/resize/comfortwomen-02.JPG"
+  - "https://r2.facwa.kr/resize/comfortwomen-02.JPG"
 description: "R3-Series 2 오키나와"
 ---

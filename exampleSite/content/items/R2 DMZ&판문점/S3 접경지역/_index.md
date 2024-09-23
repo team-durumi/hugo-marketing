@@ -5,6 +5,6 @@ weight: 3
 type: page
 level_of_description: Seires(시리즈)
 components: 
-  - "https://r2.ccwps.org/resize/R2-Scanned000065.jpg"
+  - "https://r2.facwa.kr/resize/R2-Scanned000065.jpg"
 description: "Series 3 접경지역"
 ---

@@ -5,6 +5,6 @@ weight: 1
 type: page
 level_of_description: Seires(시리즈)
 components: 
-  - "https://r2.ccwps.org/resize/comfortwomen-01.png"
+  - "https://r2.facwa.kr/resize/comfortwomen-01.png"
 description: "R3-Series 1 일본군’위안부’"
 ---
